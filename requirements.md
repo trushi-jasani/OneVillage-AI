@@ -144,8 +144,8 @@ OneVillage AI isn't just a tech solution—it's a bridge to dignity, opportunity
 **Submission Category**: Social Impact / GovTech / AI for Good  
 **Technology**: AI, Voice Tech, NLP, Low-Bandwidth Solutions  
 **SDG Alignment**: No Poverty, Zero Hunger, Quality Education, Reduced Inequalities  
-**Contact**: [Your Email] | [Your Phone]  
-**Demo**: [Link to prototype/video]
+ 
+
 
 ---
 
